@@ -1,11 +1,9 @@
   GNU GENERAL PUBLIC LICENSE
-                       Version 3, 29 June 2007
-
- Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+                      
  Everyone is permitted to copy and distribute verbatim copies
  of this license document, but changing it is not allowed.
 
-                            Preamble
+                 Preamble
 
   The GNU General Public License is a free, copyleft license for
 software and other kinds of works.
@@ -32,7 +30,7 @@ certain responsibilities if you distribute copies of the software, or if
 you modify it: responsibilities to respect the freedom of others.
 
   For example, if you distribute copies of such a program, whether
-gratis or for a fee, you must pass on to the recipients the same
+lá gratis or for a fee, you must pass on to the recipients the same
 freedoms that you received.  You must make sure that they, too, receive
 or can get the source code.  And you must show them these terms so they
 know their rights.
@@ -64,3 +62,5 @@ software on general-purpose computers, but in those that do, we wish to
 avoid the special danger that patents applied to a free program could
 make it effectively proprietary.  To prevent this, the GPL assures that
 patents cannot be used to render the program non-free.
+
+Any individual or legal entity that uses the 'CITB PT-BR' project agrees not to appropriate, claim authorship of, or assert affiliation with the project or its creators. Failure to comply will result in legal sanctions under the Licensing Terms and Legal Rights governing this repository.
