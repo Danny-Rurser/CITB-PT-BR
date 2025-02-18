@@ -10,4 +10,14 @@ elementos de imagem (Tutorial de teclas, mensagens sobrescritas, etc...), Títul
 manter o nome em inglês então fique avisado. Qualquer incongruência agradeço se relatado.
 
 ## Como instalar?
-Chegamos na dita instalação.
+1- Baixe o arquivo da tradução nesse link: 
+
+2- Descompacte o arquivo zip (Com winrar, 7zip, ou outro).
+
+3- Entre na pasta "Tradução" e copie tudo que está dentro dela (Ctrl+A),(Ctrl+C).
+
+4- Vá na Steam e clique com o botão direito no Cat in the box na steam e vá em gerenciar, Explorar Arquivos Locais.
+
+5- Na janela em que abrir, cole todos os arquivos copiados anteriormente (Ctrl+V).
+
+6- Agora é só aproveitar, para vefificar se funcionou, olhe o título do jogo ou na legenda de crédito que fica no rodapé.
