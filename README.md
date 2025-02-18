@@ -12,29 +12,33 @@ manter o nome em inglês então fique avisado. Qualquer incongruência agradeço
 ## Como instalar?
 1- Baixe o arquivo da tradução nesse link: [Tradução - Mediafire](https://www.mediafire.com/file/gc3grb3hpjpi2c4/Tradu%25C3%25A7%25C3%25A3o.zip/file)
 
-![Captura de tela 2025-02-18 170911](https://github.com/user-attachments/assets/2a2f0f10-c399-4893-8605-b1b34695c8a3)
+![Instale](https://github.com/user-attachments/assets/958eca8e-861b-4dd5-a1eb-fa2b3b47d689)
+
 
 
 2- Descompacte o arquivo zip (Com winrar, 7zip, ou outro).
 
-![image](https://github.com/user-attachments/assets/ff8efa99-3b63-4551-9881-d7211937c232)
+![Descompacte](https://github.com/user-attachments/assets/d6005e1c-fe77-4902-8be3-bfcc4ab03954)
+
 
 
 3- Entre na pasta "Tradução" e copie tudo que está dentro dela (Ctrl+A),(Ctrl+C).
 
-![image](https://github.com/user-attachments/assets/9d947a47-6b23-4e2c-aa04-7feb06e4b146)
+![Abra a passta](https://github.com/user-attachments/assets/9d947a47-6b23-4e2c-aa04-7feb06e4b146)
 
 
 4- Vá na Steam e clique com o botão direito no Cat in the box na steam e vá em gerenciar, Explorar Arquivos Locais.
 
-![image](https://github.com/user-attachments/assets/f1baafc2-d8da-4662-b234-11387ad9b6cc)
+![Explore os arquivos do jogo](https://github.com/user-attachments/assets/d1090f1c-42f0-454e-8b31-efab598c980e)
+
 
 
 5- Na janela em que abrir, cole todos os arquivos copiados anteriormente, e substitua todos os arquivos do destino (Ctrl+V).
 
-![image](https://github.com/user-attachments/assets/3a80378b-c908-4106-ba87-f21188692618)
+![Substitua os arquivos](https://github.com/user-attachments/assets/cd51b155-5159-412e-adc4-e95aa9101605)
 
 
 6- Agora é só aproveitar, para vefificar se funcionou, olhe o título do jogo ou na legenda de crédito que fica no rodapé.
 
-![image](https://github.com/user-attachments/assets/63a4295a-009b-470e-bab7-c801b93ea8de)
+![Verifique se funcionou](https://github.com/user-attachments/assets/8f9be83c-6aa4-4b5d-9ccc-8d0ebcc2d112)
+
