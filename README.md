@@ -33,7 +33,7 @@ manter o nome em inglês então fique avisado. Qualquer incongruência agradeço
 
 
 
-5- Na janela em que abrir, cole todos os arquivos copiados anteriormente, e substitua todos os arquivos do destino (Ctrl+V).
+5- Na janela em que abrir, cole todos os arquivos copiados anteriormente, e **substitua todos os arquivos do destino** (Ctrl+V).
 
 ![Substitua os arquivos](https://github.com/user-attachments/assets/cd51b155-5159-412e-adc4-e95aa9101605)
 
