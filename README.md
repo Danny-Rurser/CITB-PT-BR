@@ -27,7 +27,7 @@ manter o nome em inglês então fique avisado. Qualquer incongruência agradeço
 ![Abra a passta](https://github.com/user-attachments/assets/9d947a47-6b23-4e2c-aa04-7feb06e4b146)
 
 
-4- Vá na Steam e clique com o botão direito em 'Cat in the Box' na steam e vá em gerenciar, Explorar Arquivos Locais.
+4- Vá na Steam e clique com o botão direito em 'Cat in the Box' e depois em gerenciar, e Explorar Arquivos Locais.
 
 ![Explore os arquivos do jogo](https://github.com/user-attachments/assets/d1090f1c-42f0-454e-8b31-efab598c980e)
 
