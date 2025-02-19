@@ -10,7 +10,7 @@ elementos de imagem (Tutorial de teclas, mensagens sobrescritas, etc...), Títul
 manter o nome em inglês então fique avisado. Qualquer incongruência agradeço se relatado.
 
 ## Como instalar?
-1. Baixe o arquivo da tradução neste link: [Tradução - Mediafire](https://www.mediafire.com/file/gc3grb3hpjpi2c4/Tradu%25C3%25A7%25C3%25A3o.zip/file)
+1. Baixe o arquivo da tradução neste link: [Tradução - Mediafire](https://www.mediafire.com/file/mia6s1ngwkzbvrm/Tradu%25C3%25A7%25C3%25A3o.zip/file)
 
 ![Instale](https://github.com/user-attachments/assets/958eca8e-861b-4dd5-a1eb-fa2b3b47d689)
 
