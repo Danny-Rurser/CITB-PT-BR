@@ -40,12 +40,18 @@ manter o nome em inglês então fique avisado. Qualquer incongruência agradeço
 
 5. Na janela que apareceu, cole todos os arquivos copiados anteriormente, e **substitua todos os arquivos do destino.**
 
+> [!IMPORTANT]
+> Clique em Substituir os Arquivos no Destino.
+
 ![Substitua os arquivos](https://github.com/user-attachments/assets/cd51b155-5159-412e-adc4-e95aa9101605)
 
 ㅤ
 ㅤ
 
 6. Agora é só aproveitar. Para vefificar se funcionou, olhe o título do jogo ou na legenda de crédito que fica no rodapé.
+
+> [!NOTE]
+> Se tiver escrito Pt-Br no Cabeçalho ou CITB no rodapé, a tradução foi instalada.
 
 ![Verifique se funcionou](https://github.com/user-attachments/assets/8f9be83c-6aa4-4b5d-9ccc-8d0ebcc2d112)
 
@@ -55,7 +61,3 @@ manter o nome em inglês então fique avisado. Qualquer incongruência agradeço
 Caso você encontre algo de errado na tradução, bug, problema pra instalção ou até mesmo sugestões pra melhoras,
 sinta-se livre para abrir uma issue aqui no Github ou lá no guia da Steam. Caso seja necessário, também tem o meu
 E-mail: dannyrurser@gmail.com
-
-[^1]:  Conotação de Empresas
-[^2]:  7-Zip, Winrar, RPGMakerVXAce, Steam(Valve) e Photoshop(Adobe)
-[^3]:  Todos direitos reservados à © 2025 Danny Rurser
