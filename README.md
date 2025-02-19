@@ -56,6 +56,6 @@ Caso você encontre algo de errado na tradução, bug, problema pra instalção 
 sinta-se livre para abrir uma issue aqui no Github ou lá no guia da Steam. Caso seja necessário, também tem o meu
 E-mail: dannyrurser@gmail.com
 
-[^1]: Conotação de Empresas
-[^2]: 7-Zip, Winrar, RPGMakerVXAce, Steam(Valve) e Photoshop(Adobe)
-[^3]: Todos direitos reservados à Danny Rurser © 2025
+[^1]:  Conotação de Empresas
+[^2]:  7-Zip, Winrar, RPGMakerVXAce, Steam(Valve) e Photoshop(Adobe)
+[^3]:  Todos direitos reservados à © 2025 Danny Rurser
