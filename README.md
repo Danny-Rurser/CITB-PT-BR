@@ -33,12 +33,12 @@ manter o nome em inglês então fique avisado. Qualquer incongruência agradeço
 
 
 
-5- Na janela em que abrir, cole todos os arquivos copiados anteriormente, e **substitua todos os arquivos do destino** (Ctrl+V).
+5- Na janela que apareceu, cole todos os arquivos copiados anteriormente, e **substitua todos os arquivos do destino.**
 
 ![Substitua os arquivos](https://github.com/user-attachments/assets/cd51b155-5159-412e-adc4-e95aa9101605)
 
 
-6- Agora é só aproveitar, para vefificar se funcionou, olhe o título do jogo ou na legenda de crédito que fica no rodapé.
+6- Agora é só aproveitar. Para vefificar se funcionou, olhe o título do jogo ou na legenda de crédito que fica no rodapé.
 
 ![Verifique se funcionou](https://github.com/user-attachments/assets/8f9be83c-6aa4-4b5d-9ccc-8d0ebcc2d112)
 
