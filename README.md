@@ -51,7 +51,7 @@ manter o nome em inglês então fique avisado. Qualquer incongruência agradeço
 6. Agora é só aproveitar. Para verificar se funcionou, olhe o título do jogo ou na legenda de crédito que fica no rodapé.
 
 > [!NOTE]
-> Se tiver escrito Pt-Br no Cabeçalho ou CITB no rodapé, a tradução foi instalada.
+> Se estiver escrito Pt-Br no Cabeçalho ou CITB no rodapé, a tradução foi instalada.
 
 ![Verifique se funcionou](https://github.com/user-attachments/assets/8f9be83c-6aa4-4b5d-9ccc-8d0ebcc2d112)
 
