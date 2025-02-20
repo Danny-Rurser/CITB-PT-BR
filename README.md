@@ -48,7 +48,7 @@ manter o nome em inglês então fique avisado. Qualquer incongruência agradeço
 ㅤ
 ㅤ
 
-6. Agora é só aproveitar. Para vefificar se funcionou, olhe o título do jogo ou na legenda de crédito que fica no rodapé.
+6. Agora é só aproveitar. Para verificar se funcionou, olhe o título do jogo ou na legenda de crédito que fica no rodapé.
 
 > [!NOTE]
 > Se tiver escrito Pt-Br no Cabeçalho ou CITB no rodapé, a tradução foi instalada.
@@ -58,6 +58,6 @@ manter o nome em inglês então fique avisado. Qualquer incongruência agradeço
 ㅤ
 
 ## Me ajude a melhorar ;)
-Caso você encontre algo de errado na tradução, bug, problema pra instalção ou até mesmo sugestões pra melhoras,
+Caso você encontre algo de errado na tradução, bug, problema pra instalação ou até mesmo sugestões pra melhoras,
 sinta-se livre para abrir uma issue aqui no Github ou lá no guia da Steam. Caso seja necessário, também tem o meu
 E-mail: dannyrurser@gmail.com
