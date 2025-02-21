@@ -12,7 +12,7 @@ manter o nome em inglês então fique avisado. Qualquer incongruência agradeço
 ## Como instalar?
 1. Baixe o arquivo da tradução neste link: [Tradução 1.3 - Mediafire](https://www.mediafire.com/file/pabxn1g0owpwkjb/Tradu%25C3%25A7%25C3%25A3o_1.3.rar/file)
 
-![Instale](https://github.com/user-attachments/assets/958eca8e-861b-4dd5-a1eb-fa2b3b47d689)<br/>
+![Instale](https://github.com/user-attachments/assets/958eca8e-861b-4dd5-a1eb-fa2b3b47d689)<3/>
 
 
 2. Descompacte o arquivo zip (Com `winrar`, `7zip`, ou outro).
