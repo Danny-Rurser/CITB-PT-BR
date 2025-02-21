@@ -47,5 +47,5 @@ manter o nome em inglês então fique avisado. Qualquer incongruência agradeço
 
 ## Me ajude a melhorar ;)
 Caso você encontre algo de errado na tradução, bug, problema pra instalação ou até mesmo sugestões pra melhoras,
-sinta-se livre para abrir uma issue aqui no Github ou lá no guia da Steam. Caso seja necessário, também tem o meu
+sinta-se livre para abrir uma issue aqui no Github ou lá no guia da [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3431614294). Caso seja necessário, também tem o meu
 E-mail: dannyrurser@gmail.com
