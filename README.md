@@ -5,12 +5,12 @@ CITB PT-BR (Cat in the box, português brasileiro) é um projeto público que vi
 ## Sobre a Tradução
 A tradução não foi feita por meio de tradures on-line, eu traduzi com minha experiência na língua inglesa. 
 Por tanto a muitas fases que sofreram um reformulação, mas não se preocupe, eu mantive a ideia inicial de cada.
-A tradução foi feita direto no motor gráfico do jogo (RPG MAKER VXAce ᵒʳⁱᵍⁱⁿᵃˡ), também foi feito a curadoria de 
+A tradução foi feita direto no motor gráfico do jogo (RPG MAKER VXAce), também foi feito a curadoria de 
 elementos de imagem (Tutorial de teclas, mensagens sobrescritas, etc...), Títulos de obras no jogo eu preferi
 manter o nome em inglês então fique avisado. Qualquer incongruência agradeço se relatado.
 
 ## Como instalar?
-1. Baixe o arquivo da tradução neste link: [Tradução 1.0 - Mediafire](https://www.mediafire.com/file/w6sf0otldceewu3/Tradu%25C3%25A7%25C3%25A3o_1.0.rar/file)
+1. Baixe o arquivo da tradução neste link: [Tradução 1.3 - Mediafire](https://www.mediafire.com/file/pabxn1g0owpwkjb/Tradu%25C3%25A7%25C3%25A3o_1.3.rar/file)
 
 ![Instale](https://github.com/user-attachments/assets/958eca8e-861b-4dd5-a1eb-fa2b3b47d689)
 
