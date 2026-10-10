@@ -1,5 +1,5 @@
 # Como instalar?
-### 1. Baixe o arquivo da tradução neste link: [Tradução 1.3 - Mediafire](https://www.mediafire.com/file/0evfddp8mw0h3wh/Tradu%25C3%25A7%25C3%25A3o_1.3.rar/file)
+### 1. Baixe o arquivo da tradução neste link: [Tradução 1.4 - Mediafire](https://www.mediafire.com/file/86tno2xlbdvr90x/Tradução+1.4.zip/file)
 
 ![Instale](https://github.com/user-attachments/assets/958eca8e-861b-4dd5-a1eb-fa2b3b47d689)
 
