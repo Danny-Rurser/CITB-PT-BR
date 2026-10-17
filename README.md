@@ -41,3 +41,15 @@ E-mail: dannyrurser@gmail.com
 
 # Sobre a Tradução
 A tradução não foi feita por meio de tradutores on-line, eu traduzi com minha experiência na língua inglesa. Por tanto, há muitas frases que sofreram uma adaptação, mas não se preocupe, eu mantive a ideia inicial de cada. A tradução foi feita direto no motor gráfico do jogo (RPG MAKER VXAce), também foi feito a curadoria de elementos de imagem (Tutorial de teclas, mensagens sobrescritas, etc...), Títulos de obras no jogo eu preferi manter o nome em inglês então fique avisado. Qualquer incongruência agradeço se relatado.
+
+### Software/Links Usados
+- [All decrypter](https://www.mediafire.com/file/3ps81u5opyasn07/All_decrypter.rar/file)
+- [Tutorial do ALL decrypter](https://web.archive.org/web/20181210021347/http://seashelbby.tumblr.com/post/158524210915/do-you-have-any-resources-for-anyone-looking-to) by Shelby
+- [Adobe Photoshop](https://www.adobe.com/br/products/photoshop.html)
+- [RPG MAKER VXAce](https://store.steampowered.com/app/220700/RPG_Maker_VX_Ace/)
+- [150 horas da minha vida :3](https://steamcommunity.com/id/dannyrurser/)
+### Fontes: 
+- [AGaramondPro](https://github.com/rahulnadella/Awesome_Fonts/tree/master/Fonts/A/Adobe-Garamond-Pro)
+- [Noto Serif CJKR](https://github.com/notofonts/noto-cjk/releases/tag/Serif2.003)
+- [Adobe Myungjo](https://fonts.adobe.com/fonts/adobe-myungjo)
+- [VL Gothic](https://github.com/deepin-community/fonts-vlgothic/tree/master) ~I love this font
